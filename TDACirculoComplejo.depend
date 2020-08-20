@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1597940088 source:c:\users\notebook\codeblock\codigo c++\tdacirculocomplejo\main.cpp
+	"lista.h"
+	<iostream>
+
+1597934096 source:c:\users\notebook\codeblock\codigo c++\tdacirculocomplejo\color.cpp
+	"color.h"
+
+1597934078 c:\users\notebook\codeblock\codigo c++\tdacirculocomplejo\color.h
+
+1597933046 source:c:\users\notebook\codeblock\codigo c++\tdacirculocomplejo\posicion.cpp
+	"posicion.h"
+
+1597933070 c:\users\notebook\codeblock\codigo c++\tdacirculocomplejo\posicion.h
+
+1597940155 source:c:\users\notebook\codeblock\codigo c++\tdacirculocomplejo\circulo.cpp
+	"circulo.h"
+	"posicion.h"
+	"color.h"
+	<iostream>
+
+1597940155 c:\users\notebook\codeblock\codigo c++\tdacirculocomplejo\circulo.h
+	"posicion.h"
+	"color.h"
+
+1597937378 source:c:\users\notebook\codeblock\codigo c++\tdacirculocomplejo\lista.cpp
+	"lista.h"
+
+1597937070 c:\users\notebook\codeblock\codigo c++\tdacirculocomplejo\lista.h
+	"circulo.h"
+
