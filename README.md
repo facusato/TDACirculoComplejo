@@ -1,2 +1,2 @@
 # TDACirculoComplejo
-Ej de tda utilizando lista y estructruras anidadas en c++
+Ej de tda utilizando listas y estructruras anidadas en c++
